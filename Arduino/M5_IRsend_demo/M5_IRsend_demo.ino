@@ -1,5 +1,5 @@
 /*
- *  M5_IRsend_demo
+ *  M5_sendIR_demo
  *  IRsend demo for M5CoreS3 and M5Core2
  *  @kanpapa 2025-02-02
  *  License: MIT
