@@ -16,9 +16,9 @@
 #include <M5ModuleLLM.h>
 
 // M5Core2
-//const uint16_t kIrLed = 26; // M5Core2 IR Send GPIO 26/36
+//const uint16_t kIrLed = 26; // M5Core2 IR Send GPIO 26
 // M5CoreS3
-const uint16_t kIrLed = 9; // M5CoreS3 IR Send GPIO G9/G8
+const uint16_t kIrLed = 9; // M5CoreS3 IR Send GPIO 9
 
 IRsend irsend(kIrLed);  // Set the GPIO to be used to sending the message.
 
